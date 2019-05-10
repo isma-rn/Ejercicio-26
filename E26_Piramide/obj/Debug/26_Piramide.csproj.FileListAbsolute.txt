@@ -1,0 +1,7 @@
+C:\Users\Yesica Moreno\source\ejercicioscaleb\26_Piramide\26_Piramide\bin\Debug\26_Piramide.exe.config
+C:\Users\Yesica Moreno\source\ejercicioscaleb\26_Piramide\26_Piramide\bin\Debug\26_Piramide.exe
+C:\Users\Yesica Moreno\source\ejercicioscaleb\26_Piramide\26_Piramide\bin\Debug\26_Piramide.pdb
+C:\Users\Yesica Moreno\source\ejercicioscaleb\26_Piramide\26_Piramide\obj\Debug\26_Piramide.csprojAssemblyReference.cache
+C:\Users\Yesica Moreno\source\ejercicioscaleb\26_Piramide\26_Piramide\obj\Debug\26_Piramide.csproj.CoreCompileInputs.cache
+C:\Users\Yesica Moreno\source\ejercicioscaleb\26_Piramide\26_Piramide\obj\Debug\26_Piramide.exe
+C:\Users\Yesica Moreno\source\ejercicioscaleb\26_Piramide\26_Piramide\obj\Debug\26_Piramide.pdb
